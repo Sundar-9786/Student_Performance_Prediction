@@ -1,7 +1,7 @@
 # Student_Performance_Prediction
 
 
-1.The system automates hospital operations like managing doctor schedules, patient information, appointments,
-and billing.
-
-2.It enhances efficiency by enabling queries for patient histories, doctor availability, and payment status  
+1. Predicted student grades using logistic regression based on features like study time, GPA, and absences.
+2. Preprocessed data and created features like parental support and extracurricular activities for better prediction
+   accuracy.
+3. Provided insights into factors influencing student performance, helping to identify key predictors of success
